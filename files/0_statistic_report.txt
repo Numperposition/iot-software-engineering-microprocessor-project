@@ -1,0 +1,62 @@
+Film name:KONG SKULL ISLAND
+Adult ticket count:0
+Adult total income:0.0
+Child ticket count:0
+Child total income:0.0
+Senior ticket count:0
+Senior total income:0.0
+Student ticket count:1
+Student total income:25.5
+Total tickets sold:1
+Total price:25.5
+-------------------------------------------------------------------
+Film name:LOGAN
+Adult ticket count:0
+Adult total income:0.0
+Child ticket count:0
+Child total income:0.0
+Senior ticket count:0
+Senior total income:0.0
+Student ticket count:0
+Student total income:0.0
+Total tickets sold:0
+Total price:0.0
+-------------------------------------------------------------------
+Film name:BEAUTY AND THE BEAST
+Adult ticket count:0
+Adult total income:0.0
+Child ticket count:0
+Child total income:0.0
+Senior ticket count:0
+Senior total income:0.0
+Student ticket count:0
+Student total income:0.0
+Total tickets sold:0
+Total price:0.0
+-------------------------------------------------------------------
+Film name:MOONLIGHT
+Adult ticket count:0
+Adult total income:0.0
+Child ticket count:0
+Child total income:0.0
+Senior ticket count:0
+Senior total income:0.0
+Student ticket count:0
+Student total income:0.0
+Total tickets sold:0
+Total price:0.0
+-------------------------------------------------------------------
+Film name:LA LA LAND
+Adult ticket count:0
+Adult total income:0.0
+Child ticket count:0
+Child total income:0.0
+Senior ticket count:0
+Senior total income:0.0
+Student ticket count:0
+Student total income:0.0
+Total tickets sold:0
+Total price:0.0
+-------------------------------------------------------------------
+Today's total tickets sold:1
+Today's total income:25.5
